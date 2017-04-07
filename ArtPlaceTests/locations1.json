@@ -1,0 +1,15 @@
+{
+    "locations": [
+        {
+            "name": "Milsons Point",
+            "lat": -33.850750,
+            "lng": 151.212519
+        },
+        {
+            "name": "Bondi Beach",
+            "lat": -33.889967,
+            "lng": 151.276440
+        }
+    ],
+    "updated": "2016-12-01T06:52:08Z"
+}
