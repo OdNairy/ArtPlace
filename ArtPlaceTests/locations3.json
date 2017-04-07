@@ -1,0 +1,15 @@
+{
+    "locationsError": [
+        {
+            "nameError": "Circular Quay",
+            "lat": -33.860178,
+            "lng": 151.212706
+        },
+        {
+            "name": "Manly Beach",
+            "lat": "Error",
+            "lng": 151.288784
+        }
+    ],
+    "updated": "2016-12-01T06:52:08Z"
+}
